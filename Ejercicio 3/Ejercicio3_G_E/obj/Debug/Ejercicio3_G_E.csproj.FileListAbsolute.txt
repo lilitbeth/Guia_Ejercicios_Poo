@@ -1,0 +1,10 @@
+C:\Users\eliza\source\repos\Ejercicio3_G_E\Ejercicio3_G_E\bin\Debug\Ejercicio3_G_E.exe.config
+C:\Users\eliza\source\repos\Ejercicio3_G_E\Ejercicio3_G_E\bin\Debug\Ejercicio3_G_E.exe
+C:\Users\eliza\source\repos\Ejercicio3_G_E\Ejercicio3_G_E\bin\Debug\Ejercicio3_G_E.pdb
+C:\Users\eliza\source\repos\Ejercicio3_G_E\Ejercicio3_G_E\obj\Debug\Ejercicio3_G_E.csproj.AssemblyReference.cache
+C:\Users\eliza\source\repos\Ejercicio3_G_E\Ejercicio3_G_E\obj\Debug\Ejercicio3_G_E.Form1.resources
+C:\Users\eliza\source\repos\Ejercicio3_G_E\Ejercicio3_G_E\obj\Debug\Ejercicio3_G_E.Properties.Resources.resources
+C:\Users\eliza\source\repos\Ejercicio3_G_E\Ejercicio3_G_E\obj\Debug\Ejercicio3_G_E.csproj.GenerateResource.cache
+C:\Users\eliza\source\repos\Ejercicio3_G_E\Ejercicio3_G_E\obj\Debug\Ejercicio3_G_E.csproj.CoreCompileInputs.cache
+C:\Users\eliza\source\repos\Ejercicio3_G_E\Ejercicio3_G_E\obj\Debug\Ejercicio3_G_E.exe
+C:\Users\eliza\source\repos\Ejercicio3_G_E\Ejercicio3_G_E\obj\Debug\Ejercicio3_G_E.pdb
