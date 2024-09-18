@@ -1,0 +1,20 @@
+C:\Users\mosco\Desktop\C#\Trabajo en equipo\Ejemplo_4\Ejemplo_4\bin\Debug\Ejemplo_4.exe.config
+C:\Users\mosco\Desktop\C#\Trabajo en equipo\Ejemplo_4\Ejemplo_4\bin\Debug\Ejemplo_4.exe
+C:\Users\mosco\Desktop\C#\Trabajo en equipo\Ejemplo_4\Ejemplo_4\bin\Debug\Ejemplo_4.pdb
+C:\Users\mosco\Desktop\C#\Trabajo en equipo\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.csproj.AssemblyReference.cache
+C:\Users\mosco\Desktop\C#\Trabajo en equipo\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.Form1.resources
+C:\Users\mosco\Desktop\C#\Trabajo en equipo\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.Properties.Resources.resources
+C:\Users\mosco\Desktop\C#\Trabajo en equipo\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.csproj.GenerateResource.cache
+C:\Users\mosco\Desktop\C#\Trabajo en equipo\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.csproj.CoreCompileInputs.cache
+C:\Users\mosco\Desktop\C#\Trabajo en equipo\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.exe
+C:\Users\mosco\Desktop\C#\Trabajo en equipo\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.pdb
+C:\Users\eliza\OneDrive\Documentos\Ejemplo_4\Ejemplo_4\Ejemplo_4\bin\Debug\Ejemplo_4.exe.config
+C:\Users\eliza\OneDrive\Documentos\Ejemplo_4\Ejemplo_4\Ejemplo_4\bin\Debug\Ejemplo_4.exe
+C:\Users\eliza\OneDrive\Documentos\Ejemplo_4\Ejemplo_4\Ejemplo_4\bin\Debug\Ejemplo_4.pdb
+C:\Users\eliza\OneDrive\Documentos\Ejemplo_4\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.csproj.AssemblyReference.cache
+C:\Users\eliza\OneDrive\Documentos\Ejemplo_4\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.Form1.resources
+C:\Users\eliza\OneDrive\Documentos\Ejemplo_4\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.Properties.Resources.resources
+C:\Users\eliza\OneDrive\Documentos\Ejemplo_4\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.csproj.GenerateResource.cache
+C:\Users\eliza\OneDrive\Documentos\Ejemplo_4\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.csproj.CoreCompileInputs.cache
+C:\Users\eliza\OneDrive\Documentos\Ejemplo_4\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.exe
+C:\Users\eliza\OneDrive\Documentos\Ejemplo_4\Ejemplo_4\Ejemplo_4\obj\Debug\Ejemplo_4.pdb
